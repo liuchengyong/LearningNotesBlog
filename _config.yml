@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 源哥学前端
+subtitle: 程序猿的进阶之路，后端到前端，前端到后端。
+description: 一个公司一个人
+keywords: 前端 后端 学习笔记 java kafka es js vue react
+author: liuchengyong
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.liuchengyong.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: pure
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
