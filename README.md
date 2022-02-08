@@ -1,1 +1,2 @@
-# liuchengyong.github.io
+# LearningNotesBlog
+hexo blog
